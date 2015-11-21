@@ -1,4 +1,4 @@
-### SharpEarth is a thin, C++/CLI layer on top of [OpenSceneGraph](https://github.com/openscenegraph/osg) and [osgEarth](https://github.com/gwaldron/osgearth).  
+### OSGEarth.Net is a thin, C++/CLI layer on top of [OpenSceneGraph](https://github.com/openscenegraph/osg) and [osgEarth](https://github.com/gwaldron/osgearth) that brings OSGEarth to .Net applications.
 
 ### Building the dependencies
 First, a few notes.
