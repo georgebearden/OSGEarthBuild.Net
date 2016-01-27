@@ -1,5 +1,3 @@
-### OSGEarth.Net is a thin, C++/CLI layer on top of [OpenSceneGraph](https://github.com/openscenegraph/osg) and [osgEarth](https://github.com/gwaldron/osgearth) that brings OSGEarth to .Net applications.
-
 ### Building the dependencies
 First, a few notes.
 * I am considering providing a download to all the prebuilt libraries, but for now the OSG and OSGEarth dependencies need to be built manually following the steps below.  
